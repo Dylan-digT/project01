@@ -52,7 +52,7 @@ body {
     color: black;
   }
   
-  .logo-wrapper img{
+  .portfolio-items-wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
   }
@@ -97,10 +97,10 @@ body {
     font-weight: 600;
   }
   
-  /*.logo-wrapper img {
-    width: 50%;
+  .logo-wrapper img {
+    width: 80%;
     margin-bottom: 20px;
-  }*/
+  }
   
   .two-column-wrapper {
     display: grid;
@@ -108,7 +108,7 @@ body {
   }
   
   .profile-image-wrapper img {
-    width: 100%;
+    width: 80%;
   }
   
   .profile-content-wrapper {
